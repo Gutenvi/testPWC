@@ -10,8 +10,5 @@ def jose_haz_algo():
   """
   pass
 
-def victor_yoquese():
-  """
-  Funcion que hace cosas.
-  """
-  pass
+def victor_yoquese(a, b):
+  print('Hoy a las 00:00h se viene')
