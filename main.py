@@ -10,5 +10,5 @@ def jose_haz_algo():
   """
   pass
 
-def victor_yoquese(a, b):
+def victor_yoquese():
   print('Hoy a las 00:00h se viene')
