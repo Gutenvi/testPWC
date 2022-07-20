@@ -2,7 +2,7 @@ def ander_a_currar():
   """
   Funcion que cuenta un chiste.
   """
-  pass
+  print("Va un caracol y derrapa")
 
 def jose_haz_algo():
   """
